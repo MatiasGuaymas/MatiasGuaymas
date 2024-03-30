@@ -10,7 +10,7 @@
   
 <h2 align="left">Primer año:</h2>
 <div align="center">
-    <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Primer Semestre&theme=dark"></a>
+    <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&midnight-purple"></a>
     <a href="https://github.com/Joakulo/Organizacion-de-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Organizacion-de-Computadoras&theme=dark"></a>
     <a href="https://github.com/Joakulo/Organizacion-de-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Organizacion-de-Computadoras&theme=dark"></a>
 <br>
