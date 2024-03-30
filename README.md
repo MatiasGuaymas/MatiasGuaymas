@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Matias Guaymas 👋</h1>
 
-<img src ="https://cdn.discordapp.com/attachments/963569430112129025/1223713537852051497/satoru-gojo-jujutsu-3840x2160-9292.jpg?ex=661adb0a&is=6608660a&hm=4c7334d4f98a891419b217289bcaa7a26231c8f809227245644da2ec1a4780ea&" width="100%" height="300"/>
+<img src ="https://cdn.discordapp.com/attachments/963569430112129025/1223713537852051497/satoru-gojo-jujutsu-3840x2160-9292.jpg?ex=661adb0a&is=6608660a&hm=4c7334d4f98a891419b217289bcaa7a26231c8f809227245644da2ec1a4780ea&" width="100%" height="400"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple" height="150" />
