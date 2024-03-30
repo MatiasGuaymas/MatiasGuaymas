@@ -11,10 +11,10 @@
 <h2 align="left">Primer año:</h2>
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple"></a>
-    <a href="https://github.com/Joakulo/Organizacion-de-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Organizacion-de-Computadoras&theme=dark"></a>
-    <a href="https://github.com/Joakulo/Organizacion-de-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Organizacion-de-Computadoras&theme=dark"></a>
+    <a href="https://github.com/MatiasGuaymas/CADP-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP-Practicas&midnight-purple"></a>
+    <a href="https://github.com/MatiasGuaymas/Taller-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&midnight-purple"></a>
 <br>
-    <a href="https://github.com/Joakulo/Organizacion-de-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Organizacion-de-Computadoras&theme=dark"></a>
-    <a href="https://github.com/Joakulo/Arquitectura-de-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Arquitectura-de-Computadoras&theme=dark"></a>
-    <a href="https://github.com/Joakulo/Taller-de-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Taller-de-Programacion&theme=dark"></a>
+    <a href="https://github.com/MatiasGuaymas/2do-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymaso&repo=2do-Semestre&theme=midnight-purple"></a>
+    <a href="https://github.com/MatiasGuaymas/OC-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC-Practicas&midnight-purple"></a>
+    <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=TArquitectura-Computadoras&midnight-purple"></a>
 </div>
