@@ -12,9 +12,9 @@
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple"></a>
     <a href="https://github.com/MatiasGuaymas/CADP-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP-Practicas&theme=midnight-purple"></a>
-    <a href="https://github.com/MatiasGuaymas/Taller-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&thene=midnight-purple"></a>
+    <a href="https://github.com/MatiasGuaymas/Taller-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&theme=midnight-purple"></a>
 <br>
     <a href="https://github.com/MatiasGuaymas/2do-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymaso&repo=2do-Semestre&theme=midnight-purple"></a>
     <a href="https://github.com/MatiasGuaymas/OC-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC-Practicas&theme=midnight-purple"></a>
-    <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=TArquitectura-Computadoras&theme=midnight-purple"></a>
+    <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple"></a>
 </div>
