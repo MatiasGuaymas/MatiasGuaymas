@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas" height="150" />
 </div>
   
   
