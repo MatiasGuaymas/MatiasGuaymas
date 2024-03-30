@@ -21,7 +21,6 @@
 ---
 
 ### Segundo año
-<h2 align="left">Segundo año</h2>
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/AYED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple"></a>
     <a href="https://github.com/MatiasGuaymas/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple"></a>
