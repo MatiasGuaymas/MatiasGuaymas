@@ -7,6 +7,7 @@
 </div>
   
 ---
+
   
 ## Primer año
 <div align="center">
@@ -20,6 +21,7 @@
 </div>
 
 ---
+
 
 ## Segundo año
 <div align="center">
