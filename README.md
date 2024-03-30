@@ -18,8 +18,6 @@
     <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple"></a>
 </div>
 
----
-
 
 ## Segundo año
 <div align="center">
