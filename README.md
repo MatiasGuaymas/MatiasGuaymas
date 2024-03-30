@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Matias Guaymas 👋</h1>
 
-<br>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple" height="150" />
