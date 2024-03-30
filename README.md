@@ -1,6 +1,5 @@
 <h1 align="center">Hola, soy Matias Guaymas 👋</h1>
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple" height="150" />
@@ -18,6 +17,7 @@
     <a href="https://github.com/MatiasGuaymas/OC-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC-Practicas&theme=midnight-purple"></a>
     <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple"></a>
 </div>
+---
 <h2 align="left">Segundo año</h2>
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/AYED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple"></a>
