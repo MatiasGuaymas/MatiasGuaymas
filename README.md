@@ -1,4 +1,4 @@
-![image](https://github.com/MatiasGuaymas/MatiasGuaymas/assets/89048193/a493411f-a216-4964-b8ce-bfe3bf514b1a)<h1 align="center">Hola, soy Matias Guaymas 👋</h1>
+<h1 align="center">Hola, soy Matias Guaymas 👋</h1>
 
 <img src ="https://cdn.discordapp.com/attachments/963569430112129025/1223713513055326390/satoru-gojo-jujutsu-1920x1080-9292.jpg?ex=661adb05&is=66086605&hm=1910f736f601bd932e2c5b4b586e229865cef58566177957f76a3a884cbb26a1&"/>
 
