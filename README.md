@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Matias Guaymas 👋</h1>
 
-<img align="center" src="https://images2.alphacoders.com/132/1325157.png"/>
+<img align="center" src="https://images2.alphacoders.com/132/1325157.png](https://initiate.alphacoders.com/images/132/cropped-1920-1080-1325157.png"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=474554" height="150" />
