@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Matias Guaymas 👋</h1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/963569430112129025/1224107445912342599/cropped-1920-1080-1325157_1-transformed.png?ex=661c49e5&is=6609d4e5&hm=383861b487c5d5514347eda541bf4f848939ca24d857f377b839ee018a9103a8&"/>
+  <img src="https://cdn.discordapp.com/attachments/963569430112129025/1224109874791841934/NASHE_X3.png?ex=661c4c29&is=6609d729&hm=8d55e4f1928ee0592d7ec81ee8a442525333331b468e8102c7a0524a25705193&"/>
 </div>
 
 
