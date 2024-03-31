@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&title_color=FFFFFF" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact&theme=midnight-purple" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact&theme=midnight-purple&title_color=FFFFFF" height="150"/>
 </div>
 
   
