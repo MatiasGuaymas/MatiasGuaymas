@@ -7,7 +7,7 @@
 </div>
 
   
-## Primer año
+<h2 align="center">Primer año</h2>
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&icon_color=F8D866"></a>
     <a href="https://github.com/MatiasGuaymas/CADP-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP-Practicas&theme=midnight-purple&icon_color=F8D866"></a>
@@ -19,7 +19,7 @@
 </div>
 
 
-## Segundo año 
+<h2 align="center">Segundo año</h2>
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/AYED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple&icon_color=F8D866"></a>
     <a href="https://github.com/MatiasGuaymas/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple&icon_color=F8D866"></a>
