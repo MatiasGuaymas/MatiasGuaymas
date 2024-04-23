@@ -26,10 +26,3 @@
     <a href="https://github.com/MatiasGuaymas/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 <br>
 </div>
-
-
-<h2 align="center">Ayudante</h2>
-<div align="center">
-    <a href="https://github.com/MatiasGuaymas/CADP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
-<br>
-</div>
