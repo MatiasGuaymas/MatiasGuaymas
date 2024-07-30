@@ -12,10 +12,10 @@
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&border_color=474554&icon_color=F8D866&show_icons=false"></a>
     <a href="https://github.com/MatiasGuaymas/CADP-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP-Practicas&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
-    <a href="https://github.com/MatiasGuaymas/Taller-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
+    <a href="https://github.com/MatiasGuaymas/OC-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC-Practicas&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 <br>
     <a href="https://github.com/MatiasGuaymas/2do-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=2do-Semestre&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
-    <a href="https://github.com/MatiasGuaymas/OC-Practicas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC-Practicas&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
+    <a href="https://github.com/MatiasGuaymas/Taller-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
     <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 </div>
 
@@ -24,5 +24,6 @@
 <div align="center">
     <a href="https://github.com/MatiasGuaymas/AYED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
     <a href="https://github.com/MatiasGuaymas/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
+  <a href="https://github.com/MatiasGuaymas/Seminario-JS"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Seminario-JS&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 <br>
 </div>
