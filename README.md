@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://media1.tenor.com/m/KnAyP2YFaVYAAAAC/jjk-jujutsu-kaisen.gif"/>
+  <img align="center" src="https://64.media.tumblr.com/8d99b266c6580f00f85aa1507c61d128/708b56b34543e330-af/s540x810/d3b19d67a8add2c0b9939d4c0067094720938f60.gifv"/>
 </p>
 
 <div align="center">
