@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://www.google.com/search?q=sukuna+gif+&sca_esv=e7ba6dc809002f5c&udm=2&biw=1920&bih=919&sxsrf=ADLYWIJ0zw-m2su3UQsf9lhizDuJHKhNug%3A1726406354128&ei=0t7mZv-8B7zO1sQPxdiemAI&ved=0ahUKEwj_7ebrhMWIAxU8p5UCHUWsByMQ4dUDCBA&uact=5&oq=sukuna+gif+&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3N1a3VuYSBnaWYgMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB5ImgtQ_AFY8gVwAXgAkAEAmAFFoAG7AqoBATW4AQPIAQD4AQGYAgagAs8CwgIKEAAYgAQYQxiKBcICBhAAGAcYHsICBBAjGCfCAgQQABgDwgILEAAYgAQYsQMYgwGYAwCIBgGSBwE2oAfjGQ&sclient=gws-wiz-serp#vhid=yzOjQzzUPjVrkM&vssid=mosaic"/>
+  <img align="center" src="https://media1.tenor.com/m/KnAyP2YFaVYAAAAC/jjk-jujutsu-kaisen.gif"/>
 </p>
 
 <div align="center">
