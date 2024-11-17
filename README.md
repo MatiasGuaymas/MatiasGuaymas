@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=474554" height="175" />
-  <a href="https://discord.com/users/737660869177245717"><img src="https://lanyard.cnrad.dev/api/737660869177245717?hideBadges=true&showDisplayName=true&theme=dark&hideTimestamp=true&hideSpotify=true&hideProfile=false" height="175" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=474554" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact&theme=midnight-purple&border_color=474554" height="160"/>
 </div>
 
   
