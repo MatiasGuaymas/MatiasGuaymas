@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=474554" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact&theme=midnight-purple&border_color=474554" height="150"/>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/737660869177245717?theme=dark&hideClan=false&hideProfile=false&hideSpotify=false&showDisplayName=true&hideBadges=true&hideActivity=true&bg=&borderRadius=10px&idleMessage=)](https://discord.com/users/737660869177245717)
 </div>
 
   
