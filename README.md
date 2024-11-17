@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=474554" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=474554" height="175" />
   <a href="https://discord.com/users/737660869177245717"><img src="https://lanyard.cnrad.dev/api/737660869177245717?hideBadges=true&showDisplayName=true&theme=dark" /></a>
 </div>
 
