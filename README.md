@@ -11,6 +11,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact&theme=midnight-purple&border_color=474554" height="160"/>
 </div>
 
+- Actualmente cursando segundo año de "Analista Programador Universitario" (APU) en la UNLP.
+
+- Ayudante en: <e>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II.</e>
+
+- Si el material que compartí te fue útil, podés invitarme un [**cafecito**](https://cafecito.app/matiasguaymas).
   
 <h2 align="center">Primer año</h2>
 <div align="center">
