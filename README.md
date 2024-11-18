@@ -17,15 +17,16 @@
 
 - 👨‍🏫 Ayudante en: <e>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II.</e>
 
-- ☕ Si el material que compartí te fue útil, podés invitarme un cafecito: 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+- ☕ Si el material que compartí te fue útil, podés invitarme un cafecito:
+  
+<p align="center">
   <a href="https://cafecito.app/matiasguaymas" rel="noopener" target="_blank">
     <img 
       srcset="https://cdn.cafecito.app/imgs/buttons/button_3.png 1x, https://cdn.cafecito.app/imgs/buttons/button_3_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_3_3.75x.png 3.75x" 
       src="https://cdn.cafecito.app/imgs/buttons/button_3.png" 
       alt="Invitame un café en cafecito.app" />
   </a>
-</div>
+</p>
   
 <h2 align="center">Primer año</h2>
 <div align="center">
