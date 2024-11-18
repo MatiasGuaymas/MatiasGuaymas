@@ -13,11 +13,11 @@
 
 <br>
 
-- Actualmente cursando segundo año de "Analista Programador Universitario" (APU) en la UNLP.
+- 🎓 Actualmente cursando segundo año de "Analista Programador Universitario" (APU) en la UNLP.
 
-- Ayudante en: <e>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II.</e>
+- 👨‍🏫 Ayudante en: <e>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II.</e>
 
-- Si el material que compartí te fue útil, podés invitarme un [**cafecito**](https://cafecito.app/matiasguaymas).
+- ☕ Si el material que compartí te fue útil, podés invitarme un **[Cafecito](https://cafecito.app/matiasguaymas)**. 
   
 <h2 align="center">Primer año</h2>
 <div align="center">
