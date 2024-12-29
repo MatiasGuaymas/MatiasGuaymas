@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/963569430112129025/1322975291718762556/Imagen_de_WhatsApp_2024-12-29_a_las_14.10.57_297b0282.jpg?ex=6772d441&is=677182c1&hm=f8f5b0110dbc49374bbd1ceb6a559d356b67f527bbab421ff57e8223497a8468&"/>
+  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif"/>
 </p>
 
 <div align="center">
