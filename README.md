@@ -28,28 +28,53 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
   
 <h2 align="center">Primer año</h2>
 <div align="center">
-    <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/OC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-<br>
-    <a href="https://github.com/MatiasGuaymas/2do-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=2do-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/Taller-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
+    <a href="https://github.com/MatiasGuaymas/1er-Semestre">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/CADP">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/OC">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/2do-Semestre">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=2do-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/Taller-Programacion">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
 </div>
 
 <h2 align="center">Segundo año</h2>
 <div align="center">
-    <a href="https://github.com/MatiasGuaymas/3er-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=3er-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/4to-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=4to-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <br>
-    <a href="https://github.com/MatiasGuaymas/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/AYED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/Seminario-JS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Seminario-JS&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <br>
-    <a href="https://github.com/MatiasGuaymas/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=DBD&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/OO1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OO1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <a href="https://github.com/MatiasGuaymas/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=ISO&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-    <br>
-    <a href="https://github.com/MatiasGuaymas/INGE-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
-<br>
+    <a href="https://github.com/MatiasGuaymas/3er-Semestre">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=3er-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/4to-Semestre">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=4to-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/FOD">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/AYED">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/Seminario-JS">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Seminario-JS&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/DBD">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=DBD&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/OO1">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OO1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/ISO">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=ISO&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/MatiasGuaymas/INGE-1">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
 </div>
