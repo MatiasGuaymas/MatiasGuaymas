@@ -33,7 +33,7 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
   
 <h2 align="center">Primer año</h2>
 <div align="center">
-    <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px; text-align: center;"></a>
+    <a href="https://github.com/MatiasGuaymas/1er-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px; text-align: center;"></a>
     <a href="https://github.com/MatiasGuaymas/CADP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
     <a href="https://github.com/MatiasGuaymas/OC"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px; text-align: center;"></a>
 <br>
