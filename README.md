@@ -2,17 +2,6 @@
 
 <br>
 
-<p align="center">
-  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasGuaymas&show_icons=true&theme=midnight-purple&border_color=6a0dad" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasGuaymas&layout=compact&theme=midnight-purple&border_color=6a0dad&bg_color=0d1117" height="160"/>
-</div>
-
-<br>
-
 - 🎓 Actualmente cursando segundo año de "Analista Programador Universitario" (APU) en la UNLP.
 
 - 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II.</b>
