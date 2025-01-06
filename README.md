@@ -10,7 +10,7 @@
 
 - 🎓 Actualmente cursando segundo año de "Analista Programador Universitario" (APU) en la UNLP.
 
-- 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II.</b>
+- 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II. También estoy en las 4 materias del ingreso (EPA, COC, MAT0 e IAI).</b>
 
 - ☕ Si el material que compartí te fue útil, podés invitarme un cafecito:
   
