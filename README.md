@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Matias Guaymas </h1>
+<h1 align="center">Hola, soy Matias Guaymas</h1>
 
 <br>
 
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-_<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.</b></p>_
+<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.</b></p>
   
 <h2 align="center">Primer año</h2>
 <div align="center">
@@ -79,4 +79,3 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
 </div>
-
