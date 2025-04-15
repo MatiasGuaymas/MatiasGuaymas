@@ -1,10 +1,12 @@
-<h1 align="center">Hola, soy Matías Guaymas :)</h1>
+<h1 align="center">¡Hola! Soy Matías Guaymas :)</h1>
 
 <br>
 
 <p align="center">
-  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
+  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" width="400" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
 </p>
+
+
 
 - 🎓 Actualmente cursando último año de "Analista Programador Universitario" (APU) en la UNLP.
 
