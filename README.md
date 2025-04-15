@@ -1,17 +1,14 @@
-<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo con forma ondulada -->
-  <path d="M0,0 H800 V200 Q400,300 0,200 Z" fill="#4B5EAA"/>
-  <!-- Texto -->
-  <text x="50" y="150" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white">HOLA, SOY MATIAS</text>
-</svg>
+<h1 align="center">Hola, soy Matias Guaymas </h1>
+
+<br>
+
+<p align="center">
+  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
+</p>
 
 - 🎓 Actualmente cursando último año de "Analista Programador Universitario" (APU) en la UNLP.
 
 - 👨‍🏫 Ayudante en: <b>Algoritmos y Programación I, Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II. También estuve en las 4 materias del ingreso (EPA, COC, IAI y MAT0).</b>
-  
-<p align="center">
-  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
-</p>
 
 _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.</b></p>_
   
