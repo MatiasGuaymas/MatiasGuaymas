@@ -1,12 +1,11 @@
-<h1 align="center">Hola, soy Matías Guaymas :)</h1>
+<h1 align="center">¡Hola! Soy Matías Guaymas 👋</h1>
 
-<br>
+<p align="center">Estudiante de Analista Programador Universitario (UNLP)</p>
 
 <p align="center">
-  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
+  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" width="200" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
 </p>
 
-- 🎓 Actualmente cursando último año de "Analista Programador Universitario" (APU) en la UNLP.
 
 - 👨‍🏫 Ayudante en: <b>Algoritmos y Programación I, Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II. También estuve en las 4 materias del ingreso (EPA, COC, IAI y MAT0).</b>
 
