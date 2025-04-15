@@ -15,7 +15,7 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
 ---
   
 <div align="center">
-    <h3 align="center">Primer año</h3>
+    <h3 align="center"><b>Primer año</b></h3>
     <a href="https://github.com/MatiasGuaymas/1er-Semestre">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
@@ -34,7 +34,7 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
     <a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
-    <h2 align="center">Segundo año</h2>
+    <h3 align="center">Segundo año</h3>
     <a href="https://github.com/MatiasGuaymas/3er-Semestre">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=3er-Semestre&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
@@ -63,7 +63,7 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
     <a href="https://github.com/MatiasGuaymas/INGE-1">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
-    <h2 align="center">Tercer año</h2>
+    <h3 align="center">Tercer año</h3>
     <a href="https://github.com/MatiasGuaymas/OO2">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OO2&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
