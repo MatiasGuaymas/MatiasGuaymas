@@ -15,7 +15,7 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
 ---
   
 <div align="center">
-    <h2 align="center">Primer año</h2>
+    <h3 align="center">Primer año</h3>
     <a href="https://github.com/MatiasGuaymas/1er-Semestre">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
