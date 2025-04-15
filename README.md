@@ -6,7 +6,7 @@
   <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
 </p>
 
-
+## Sobre mí
 
 - 🎓 Actualmente cursando último año de "Analista Programador Universitario" (APU) en la UNLP.
 
@@ -15,6 +15,8 @@
 ---
 
 _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.</b></p>_
+
+> **Nota**: Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.
 
 ---
   
