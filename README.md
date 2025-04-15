@@ -14,7 +14,7 @@
 
 ---
 
-> Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.
+> _<b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.<b>_
 
 ---
   
