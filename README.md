@@ -8,6 +8,8 @@
 
 <h3><b>Sobre mí:</b></h3>
 
+---
+
 - 🎓 Actualmente cursando último año de "Analista Programador Universitario" (APU) en la UNLP.
 
 - 👨‍🏫 Ayudante en: <b>Algoritmos y Programación I, Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II. También estuve en las 4 materias del ingreso (EPA, COC, IAI y MAT0).</b>
