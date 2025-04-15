@@ -12,13 +12,7 @@
 - ☕ Si el material que compartí te fue útil, podés invitarme un cafecito:
   
 <p align="center">
-  <a href="https://cafecito.app/matiasguaymas" rel="noopener" target="_blank">
-    <img 
-      srcset="https://cdn.cafecito.app/imgs/buttons/button_3.png 1x, https://cdn.cafecito.app/imgs/buttons/button_3_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_3_3.75x.png 3.75x" 
-      src="https://cdn.cafecito.app/imgs/buttons/button_3.png" 
-      alt="Invitame un café en cafecito.app" 
-      style="transform: scale(1.1); margin: 10px;"/>
-  </a>
+  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
 </p>
 
 _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.</b></p>_
