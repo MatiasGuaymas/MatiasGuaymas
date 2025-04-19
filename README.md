@@ -74,4 +74,7 @@ _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este
     <a href="https://github.com/MatiasGuaymas/CPLP">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CPLP&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
+    <a href="https://github.com/MatiasGuaymas/MAT3">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=MAT3&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
 </div>
