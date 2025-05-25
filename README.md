@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
+  <img align="center" src="https://64.media.tumblr.com/88571430096fa83a7e00449ed4eba229/7154829c4e1928f6-ed/s500x750/0c4784e7a9ff1a2f22aebec16ba887916f0c0712.gifv" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
 </p>
 
 <h3><b>Sobre mí:</b></h3>
