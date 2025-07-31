@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola! Soy Matías Guaymas :)</h1>
 
-<br>
+<p align="center">
+  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px; border: 2px solid #6a0dad;"/>
+</p>
 
 <h3><b>Sobre mí:</b></h3>
 
