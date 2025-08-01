@@ -10,6 +10,8 @@
 
 - 👨‍🏫 Ayudante en: <b>Algoritmos y Programación I, Conceptos de Algoritmos, Datos y Programas, Taller de Programación y Programación II. También estuve en las 4 materias del ingreso (EPA, COC, IAI y MAT0).</b>
 
+- 📂 <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
+
 <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Drive-Todo%20lo%20de%20la%20Facu-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Drive - Todo lo de la facu">
 </a>
