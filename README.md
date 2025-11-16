@@ -14,6 +14,8 @@
 
 - 📂 <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/737660869177245717?theme=dark&showDisplayName=true&bg=57108D&idleMessage=%20)](https://discord.com/users/737660869177245717)
+
 ---
 
 _<p align="center"><b>Las soluciones, explicaciones o guías compartidas en este espacio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de las materias.</b></p>_
