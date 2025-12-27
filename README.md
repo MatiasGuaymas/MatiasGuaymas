@@ -8,9 +8,9 @@
 
 - 🎓 Actualmente cursando último semestre de "Analista Programador Universitario" (APU) en la UNLP.
 
-- 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Ingeniería de Software I, Programación II y Taller de Programación.</b>
+- 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Ingeniería de Software I y Taller de Programación.</b>
 
-- 📚 Anteriormente en: <b>Algoritmos y Programación I y materias del ingreso (EPA, COC, IAI, MAT0).</b>
+- 📚 Anteriormente en: <b>Algoritmos y Programación I, Programación II y materias del ingreso (EPA, COC, IAI, MAT0).</b>
 
 - 📂 <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
 
