@@ -8,8 +8,6 @@
   <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px"/>
 </p>
 
----
-
 ## Sobre mí:
 
 - 🎓 Actualmente cursando último semestre de "Analista Programador Universitario" (APU) en la UNLP.
@@ -17,8 +15,6 @@
 - 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Ingeniería de Software I y Taller de Programación.</b>
 
 - 📚 Anteriormente en: <b>Algoritmos y Programación I, Programación II y materias del ingreso (EPA, COC, IAI, MAT0).</b>
-
----
 
 ## Recursos para la facultad
 
@@ -52,8 +48,6 @@ Apuntes, parciales, ejercicios resueltos y material recopilado a lo largo de la 
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 
-<hr style="border:1px solid #6a0dad; width:100%">
-
 <h3>📗 Segundo año</h3>
 
 <a href="https://github.com/MatiasGuaymas/3er-Semestre">
@@ -86,8 +80,6 @@ Apuntes, parciales, ejercicios resueltos y material recopilado a lo largo de la 
 <a href="https://github.com/MatiasGuaymas/INGE-1">
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
-
-<hr style="border:1px solid #6a0dad; width:100%">
 
 <h3>📙 Tercer año</h3>
 
