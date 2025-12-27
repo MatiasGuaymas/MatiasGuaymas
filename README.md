@@ -18,8 +18,7 @@
 
 ## Recursos para la facultad
 
-🔗 **[Drive Facultad – UNLP](https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing)**  
-Apuntes, parciales, ejercicios resueltos y material recopilado a lo largo de la carrera.
+- 📂 <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
 
 > *El material compartido es de carácter personal y no representa contenidos oficiales ni resoluciones aprobadas por ninguna cátedra.*
 
