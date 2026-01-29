@@ -1,20 +1,12 @@
 <h1 align="center">¡Hola! Soy Matías Guaymas :)</h1>
 
 <h3 align="center">
-  Analista Programador Universitario (UNLP)
+  Forward Deployed Engineer | Analista Programador Universitario (UNLP)
 </h3>
 
 <p align="center">
   <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px"/>
 </p>
-
-## Sobre mí:
-
-- 🎓 Actualmente cursando último semestre de "Analista Programador Universitario" (APU) en la UNLP.
-
-- 👨‍🏫 Ayudante en: <b>Conceptos de Algoritmos, Datos y Programas, Ingeniería de Software I y Taller de Programación.</b>
-
-- 📚 Anteriormente en: <b>Algoritmos y Programación I, Programación II y materias del ingreso (EPA, COC, IAI, MAT0).</b>
 
 ## Recursos para la facultad:
 
