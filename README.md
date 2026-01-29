@@ -1,9 +1,5 @@
 <h1 align="center">¡Hola! Soy Matías Guaymas :)</h1>
 
-<h3 align="center">
-  Forward Deployed Engineer | Analista Programador Universitario (UNLP)
-</h3>
-
 <p align="center">
   <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px"/>
 </p>
