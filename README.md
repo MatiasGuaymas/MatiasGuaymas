@@ -10,12 +10,14 @@
 
 > *El material compartido es de carácter personal y no representa contenidos oficiales ni resoluciones aprobadas por ninguna cátedra.*
 
+<div align="center">
 <a href="https://github.com/MatiasGuaymas/APU">
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=APU&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 <a href="https://github.com/MatiasGuaymas/Bibliografia-APU">
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Bibliografia-APU&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
+</div>
 
 ---
   
