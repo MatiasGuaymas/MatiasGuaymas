@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Matías Guaymas :)</h1>
 
 <p align="center">
-  <img align="center" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" style="border-radius: 15px"/>
+  <img align="center" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif" style="border-radius: 15px"/>
 </p>
 
 ## Recursos para la facultad:
