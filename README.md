@@ -106,8 +106,11 @@
 <a href="https://github.com/MatiasGuaymas/BD1">
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=BD1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
-<a href="https://github.com/MatiasGuaymas/PS">
+<a href="https://github.com/MatiasGuaymas/RyC">
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=PS&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+</a>
+<a href="https://github.com/MatiasGuaymas/PS">
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=RyC&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
 </a>
 <a href="https://github.com/MatiasGuaymas/TTPS">
   <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=TTPS&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
