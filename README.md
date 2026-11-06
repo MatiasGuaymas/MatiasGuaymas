@@ -1,115 +1,75 @@
-<p align="center"><img src="./banner.svg" width="100%"></p>
+<p align="center"><img src="./banner.svg" width="100%" alt="Matías Guaymas — FDE · APU · UNLP"></p>
 
-## Recursos para la facultad:
+## 📂 Recursos para la facultad
 
-- 📂 <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
+- <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
 
 > *El material compartido es de carácter personal y no representa contenidos oficiales ni resoluciones aprobadas por ninguna cátedra.*
 
-<div align="center">
-<a href="https://github.com/MatiasGuaymas/APU">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=APU&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/Bibliografia-APU">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Bibliografia-APU&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-</div>
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank">
+    <img src="./assets/btn-drive.svg" width="400" alt="Abrir Drive Facultad"/>
+  </a>
+</p>
 
----
-  
-<div align="center">
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<h3>📘 Primer año</h3>
+<h2 align="center">🎓 La carrera, repo por repo</h2>
 
-<a href="https://github.com/MatiasGuaymas/1er-Semestre">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/CADP">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CADP&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/OC">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OC&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/2do-Semestre">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=2do-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/Taller-Programacion">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Taller-Programacion&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Arquitectura-Computadoras&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
+<p align="center">
+  <a href="https://github.com/MatiasGuaymas/APU">
+    <img src="./assets/card-apu.svg" width="490" alt="APU — Analista Programador Universitario"/>
+  </a>
+  <br/>
+  <a href="https://github.com/MatiasGuaymas/Bibliografia-APU">
+    <img src="./assets/card-biblio.svg" width="490" alt="Bibliografía APU — libros, apuntes y material de estudio"/>
+  </a>
+</p>
 
-<h3>📗 Segundo año</h3>
+<br/>
 
-<a href="https://github.com/MatiasGuaymas/3er-Semestre">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=3er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/4to-Semestre">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=4to-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./assets/anio-1.svg" width="255" alt="Primer año"/></td>
+    <td align="center"><img src="./assets/anio-2.svg" width="255" alt="Segundo año"/></td>
+    <td align="center"><img src="./assets/anio-3.svg" width="255" alt="Tercer año"/></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CADP"><b>CADP</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OC"><b>Organización de Computadoras</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>Taller de Programación</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>Arquitectura de Computadoras</b></a><br/>
+      <br/>
+      &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/1er-Semestre">1er Semestre</a> · <a href="https://github.com/MatiasGuaymas/2do-Semestre">2do Semestre</a></sub>
+    </td>
+    <td valign="top">
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/AYED"><b>Algoritmos y Estructuras de Datos</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/FOD"><b>FOD</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/DBD"><b>DBD</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/ISO"><b>ISO</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO1"><b>Orientada a Objetos I</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Seminario-JS"><b>Seminario de Lenguajes (JS)</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-1"><b>Ingeniería de Software I</b></a><br/>
+      <br/>
+      &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/3er-Semestre">3er Semestre</a> · <a href="https://github.com/MatiasGuaymas/4to-Semestre">4to Semestre</a></sub>
+    </td>
+    <td valign="top">
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CPLP"><b>CPLP</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO2"><b>Orientada a Objetos II</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/MAT3"><b>Matemática 3</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-2"><b>Ingeniería de Software II</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PC"><b>Programación Concurrente</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/BD1"><b>Bases de Datos I</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PS"><b>Proyecto de Software</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/RyC"><b>Redes y Comunicaciones</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/TTPS"><b>TTPS</b></a><br/>
+      <br/>
+      &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/5to-Semestre">5to Semestre</a> · <a href="https://github.com/MatiasGuaymas/6to-Semestre">6to Semestre</a></sub>
+    </td>
+  </tr>
+</table>
 
-<br>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<a href="https://github.com/MatiasGuaymas/FOD">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=FOD&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/AYED">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=AYED&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/Seminario-JS">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=Seminario-JS&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/DBD">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=DBD&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/OO1">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OO1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/ISO">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=ISO&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/INGE-1">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-
-<h3>📙 Tercer año</h3>
-
-<a href="https://github.com/MatiasGuaymas/5to-Semestre">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=5to-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/6to-Semestre">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=6to-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-
-<br>
-
-<a href="https://github.com/MatiasGuaymas/CPLP">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=CPLP&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/OO2">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=OO2&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/MAT3">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=MAT3&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/INGE-2">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=INGE-2&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/PC">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=PC&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/BD1">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=BD1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/PS">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=PS&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/RyC">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=RyC&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-<a href="https://github.com/MatiasGuaymas/TTPS">
-  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatiasGuaymas&repo=TTPS&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
-</a>
-
-</div>
+<p align="center"><sub>Si algo de acá te sirvió, una ⭐ en el repo siempre suma 💜</sub></p>
