@@ -1,10 +1,8 @@
 <p align="center"><img src="./banner.svg" width="100%" alt="Matías Guaymas — FDE · APU · UNLP"></p>
 
-## 📂 Recursos para la facultad
+<h2 align="center">📂 Recursos para la facultad</h2>
 
-- <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank"><b>Drive Facultad:</b></a> todo el material que fui juntando a lo largo de la carrera (apuntes, parciales, ejercicios y más).
-
-> *El material compartido es de carácter personal y no representa contenidos oficiales ni resoluciones aprobadas por ninguna cátedra.*
+<p align="center">Todo el material que fui juntando a lo largo de la carrera: apuntes, parciales, ejercicios y más.</p>
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank">
@@ -12,9 +10,11 @@
   </a>
 </p>
 
+<p align="center"><sub><i>El material compartido es de carácter personal y no representa contenidos oficiales ni resoluciones aprobadas por ninguna cátedra.</i></sub></p>
+
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">🎓 La carrera, repo por repo</h2>
+<h2 align="center">🎓 Carrera APU</h2>
 
 <p align="center">
   <a href="https://github.com/MatiasGuaymas/APU">
