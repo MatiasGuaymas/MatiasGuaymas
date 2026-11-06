@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank">
-    <img src="./assets/btn-drive.svg" width="400" alt="Abrir Drive Facultad"/>
+    <img src="./assets/btn-drive.svg?v=2" width="400" alt="Abrir Drive Facultad"/>
   </a>
 </p>
 
@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/MatiasGuaymas/APU">
-    <img src="./assets/card-apu.svg" width="390" alt="APU — Analista Programador Universitario"/>
+    <img src="./assets/card-apu.svg?v=2" width="390" alt="APU — Analista Programador Universitario"/>
   </a>
   &nbsp;
   <a href="https://github.com/MatiasGuaymas/Bibliografia-APU">
-    <img src="./assets/card-biblio.svg" width="390" alt="Bibliografía APU — libros, apuntes y material de estudio"/>
+    <img src="./assets/card-biblio.svg?v=2" width="390" alt="Bibliografía APU — libros, apuntes y material de estudio"/>
   </a>
 </p>
 
@@ -30,9 +30,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="./assets/anio-1.svg" width="255" alt="Primer año"/></td>
-    <td align="center"><img src="./assets/anio-2.svg" width="255" alt="Segundo año"/></td>
-    <td align="center"><img src="./assets/anio-3.svg" width="255" alt="Tercer año"/></td>
+    <td align="center"><img src="./assets/anio-1.svg?v=2" width="255" alt="Primer año"/></td>
+    <td align="center"><img src="./assets/anio-2.svg?v=2" width="255" alt="Segundo año"/></td>
+    <td align="center"><img src="./assets/anio-3.svg?v=2" width="255" alt="Tercer año"/></td>
   </tr>
   <tr>
     <td valign="top">
