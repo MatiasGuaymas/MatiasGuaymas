@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 84" width="420" height="84" role="img" aria-label="Tercer año">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a2f9e"/>
+      <stop offset="1" stop-color="#9b7bff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9b8ff"/>
+      <stop offset="1" stop-color="#9b7bff"/>
+    </linearGradient>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity="0.14"/>
+    </pattern>
+    <clipPath id="clip"><rect x="2" y="2" width="416" height="80" rx="18"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="416" height="80" rx="18" fill="#1f1736"/>
+  <g clip-path="url(#clip)">
+    <rect x="230" y="0" width="190" height="84" fill="url(#dots)"/>
+    <text x="398" y="78" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" fill="#9b7bff" opacity="0.22">III</text>
+  </g>
+  <rect x="2" y="2" width="416" height="80" rx="18" fill="none" stroke="url(#border)" stroke-width="2.5"/>
+  <rect x="26" y="26" width="6" height="32" rx="3" fill="url(#bar)"/>
+  <text x="52" y="38" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.5" fill="#9b7bff">AÑO</text>
+  <text x="52" y="66" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" fill="#ffffff">Tercer año</text>
+</svg>

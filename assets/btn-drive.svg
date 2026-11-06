@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 66" width="440" height="66" role="img" aria-label="Abrir Drive Facultad">
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0" stop-color="#4a2f9e"/>
+      <stop offset="1" stop-color="#9b7bff"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#120a2b" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect x="4" y="3" width="432" height="58" rx="29" fill="url(#fill)" filter="url(#shadow)"/>
+  <rect x="4" y="3" width="432" height="29" rx="14.5" fill="url(#sheen)"/>
+  <g transform="translate(46,32)">
+    <path d="M-12,-9 h9 l4,4 h11 a3,3 0 0 1 3,3 v10 a3,3 0 0 1 -3,3 h-24 a3,3 0 0 1 -3,-3 v-14 a3,3 0 0 1 3,-3 Z" fill="#ffffff" opacity="0.95"/>
+    <path d="M-13,-1 h28 l-3,12 a3,3 0 0 1 -2.9,2.3 h-21 Z" fill="#c9b8ff"/>
+  </g>
+  <text x="76" y="41" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="800" fill="#ffffff">Abrir Drive Facultad</text>
+  <text x="394" y="41" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">→<animate attributeName="x" values="394;401;394" dur="2.6s" repeatCount="indefinite"/></text>
+</svg>

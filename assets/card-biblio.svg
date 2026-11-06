@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 128" width="560" height="128" role="img" aria-label="Repositorio destacado: Bibliografía APU">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a2f9e"/>
+      <stop offset="1" stop-color="#9b7bff"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9b7bff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#9b7bff" stop-opacity="0.28"/>
+    </linearGradient>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity="0.12"/>
+    </pattern>
+    <clipPath id="clip"><rect x="2" y="2" width="556" height="124" rx="20"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="556" height="124" rx="20" fill="#1f1736"/>
+  <g clip-path="url(#clip)">
+    <rect x="340" y="0" width="220" height="128" fill="url(#glow)"/>
+    <rect x="340" y="0" width="220" height="128" fill="url(#dots)"/>
+    <text x="505" y="112" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="110" font-weight="700" fill="#9b7bff" opacity="0.18">✦</text>
+  </g>
+  <rect x="2" y="2" width="556" height="124" rx="20" fill="none" stroke="url(#border)" stroke-width="2.5"/>
+  <text x="34" y="40" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.2" fill="#9b7bff">REPOSITORIO DESTACADO</text>
+  <text x="34" y="76" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#ffffff">Bibliografía APU</text>
+  <text x="34" y="104" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#c9b8ff">Libros, apuntes y material de estudio</text>
+  <text x="522" y="74" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#c9b8ff">→<animate attributeName="x" values="522;530;522" dur="2.6s" repeatCount="indefinite"/></text>
+</svg>
