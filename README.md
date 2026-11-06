@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/MatiasGuaymas/APU">
-    <img src="./assets/card-apu.svg" width="490" alt="APU — Analista Programador Universitario"/>
+    <img src="./assets/card-apu.svg" width="390" alt="APU — Analista Programador Universitario"/>
   </a>
-  <br/>
+  &nbsp;
   <a href="https://github.com/MatiasGuaymas/Bibliografia-APU">
-    <img src="./assets/card-biblio.svg" width="490" alt="Bibliografía APU — libros, apuntes y material de estudio"/>
+    <img src="./assets/card-biblio.svg" width="390" alt="Bibliografía APU — libros, apuntes y material de estudio"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>Taller de Programación</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>Arquitectura de Computadoras</b></a><br/>
       <br/>
-      <div align="center"><sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/1er-Semestre">1er Semestre</a> · <a href="https://github.com/MatiasGuaymas/2do-Semestre">2do Semestre</a></sub></div>
+      &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/1er-Semestre">1er Semestre</a> · <a href="https://github.com/MatiasGuaymas/2do-Semestre">2do Semestre</a></sub>
     </td>
     <td valign="top">
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/AYED"><b>Algoritmos y Estructuras de Datos</b></a><br/>
@@ -52,7 +52,7 @@
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Seminario-JS"><b>Seminario de Lenguajes (JS)</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-1"><b>Ingeniería de Software I</b></a><br/>
       <br/>
-      <div align="center"><sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/3er-Semestre">3er Semestre</a> · <a href="https://github.com/MatiasGuaymas/4to-Semestre">4to Semestre</a></sub></div>
+      &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/3er-Semestre">3er Semestre</a> · <a href="https://github.com/MatiasGuaymas/4to-Semestre">4to Semestre</a></sub>
     </td>
     <td valign="top">
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CPLP"><b>CPLP</b></a><br/>
@@ -65,7 +65,7 @@
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/RyC"><b>Redes y Comunicaciones</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/TTPS"><b>TTPS</b></a><br/>
       <br/>
-      <div align="center"><sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/5to-Semestre">5to Semestre</a> · <a href="https://github.com/MatiasGuaymas/6to-Semestre">6to Semestre</a></sub></div>
+      &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/5to-Semestre">5to Semestre</a> · <a href="https://github.com/MatiasGuaymas/6to-Semestre">6to Semestre</a></sub>
     </td>
   </tr>
 </table>
