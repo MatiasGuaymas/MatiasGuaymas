@@ -37,33 +37,33 @@
   <tr>
     <td valign="top">
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CADP"><b>CADP</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OC"><b>Organización de Computadoras</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OC"><b>OC</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>Taller de Programación</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>Arquitectura de Computadoras</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>AC</b></a><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/1er-Semestre">1er Semestre</a> · <a href="https://github.com/MatiasGuaymas/2do-Semestre">2do Semestre</a></sub>
     </td>
     <td valign="top">
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/AYED"><b>Algoritmos y Estructuras de Datos</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/AYED"><b>AYED</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/FOD"><b>FOD</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/DBD"><b>DBD</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/ISO"><b>ISO</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO1"><b>Orientada a Objetos I</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO1"><b>OO1</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Seminario-JS"><b>Seminario de Lenguajes (JS)</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-1"><b>Ingeniería de Software I</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-1"><b>INGE1</b></a><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/3er-Semestre">3er Semestre</a> · <a href="https://github.com/MatiasGuaymas/4to-Semestre">4to Semestre</a></sub>
     </td>
     <td valign="top">
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CPLP"><b>CPLP</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO2"><b>Orientada a Objetos II</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/MAT3"><b>Matemática 3</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-2"><b>Ingeniería de Software II</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PC"><b>Programación Concurrente</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/BD1"><b>Bases de Datos I</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PS"><b>Proyecto de Software</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/RyC"><b>Redes y Comunicaciones</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/TTPS"><b>TTPS</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO2"><b>OO2</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/MAT3"><b>MATE3</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-2"><b>INGE2</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PC"><b>PC</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/BD1"><b>BD1</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PS"><b>PS</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/RyC"><b>RyC</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/TTPS"><b>TTPS (Java)</b></a><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/5to-Semestre">5to Semestre</a> · <a href="https://github.com/MatiasGuaymas/6to-Semestre">6to Semestre</a></sub>
     </td>
