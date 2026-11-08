@@ -38,7 +38,7 @@
     <td valign="top">
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CADP"><b>CADP</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OC"><b>OC</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>Taller de Programación</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>TALLER</b></a><br/>
       &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>AC</b></a><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/1er-Semestre">1er Semestre</a> · <a href="https://github.com/MatiasGuaymas/2do-Semestre">2do Semestre</a></sub>
