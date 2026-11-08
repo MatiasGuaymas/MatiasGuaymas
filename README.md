@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1EhC6Cd9YfD0ueQH_NZ4xdYgJqiDLzvGR?usp=sharing" target="_blank">
-    <img src="./assets/btn-drive.svg?v=2" width="400" alt="Abrir Drive Facultad"/>
+    <img src="./assets/btn-drive.svg?v=3" width="400" alt="Abrir Drive Facultad"/>
   </a>
 </p>
 
