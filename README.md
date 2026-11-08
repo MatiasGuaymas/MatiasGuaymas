@@ -36,34 +36,34 @@
   </tr>
   <tr>
     <td valign="top">
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CADP"><b>CADP</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OC"><b>OC</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>TALLER</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>AC</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CADP"><b>CADP</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/CADP?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OC"><b>OC</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/OC?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Taller-Programacion"><b>TALLER</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/Taller-Programacion?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Arquitectura-Computadoras"><b>AC</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/Arquitectura-Computadoras?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/1er-Semestre">1er Semestre</a> · <a href="https://github.com/MatiasGuaymas/2do-Semestre">2do Semestre</a></sub>
     </td>
     <td valign="top">
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/AYED"><b>AYED</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/FOD"><b>FOD</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/DBD"><b>DBD</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/ISO"><b>ISO</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO1"><b>OO1</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Seminario-JS"><b>Seminario de Lenguajes (JS)</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-1"><b>INGE1</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/AYED"><b>AYED</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/AYED?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/FOD"><b>FOD</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/FOD?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/DBD"><b>DBD</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/DBD?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/ISO"><b>ISO</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/ISO?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO1"><b>OO1</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/OO1?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/Seminario-JS"><b>Seminario de Lenguajes (JS)</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/Seminario-JS?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-1"><b>INGE1</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/INGE-1?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/3er-Semestre">3er Semestre</a> · <a href="https://github.com/MatiasGuaymas/4to-Semestre">4to Semestre</a></sub>
     </td>
     <td valign="top">
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CPLP"><b>CPLP</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO2"><b>OO2</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/MAT3"><b>MATE3</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-2"><b>INGE2</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PC"><b>PC</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/BD1"><b>BD1</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PS"><b>PS</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/RyC"><b>RyC</b></a><br/>
-      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/TTPS"><b>TTPS (Java)</b></a><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/CPLP"><b>CPLP</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/CPLP?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/OO2"><b>OO2</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/OO2?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/MAT3"><b>MATE3</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/MAT3?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/INGE-2"><b>INGE2</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/INGE-2?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PC"><b>PC</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/PC?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/BD1"><b>BD1</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/BD1?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/PS"><b>PS</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/PS?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/RyC"><b>RyC</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/RyC?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
+      &nbsp;▸&ensp;<a href="https://github.com/MatiasGuaymas/TTPS"><b>TTPS (Java)</b></a>&ensp;<img src="https://img.shields.io/github/stars/MatiasGuaymas/TTPS?style=flat-square&label=%E2%AD%90&labelColor=1f1736&color=4a2f9e" alt="stars" height="16"/><br/>
       <br/>
       &nbsp;<sub>🗂&ensp;<a href="https://github.com/MatiasGuaymas/5to-Semestre">5to Semestre</a> · <a href="https://github.com/MatiasGuaymas/6to-Semestre">6to Semestre</a></sub>
     </td>
